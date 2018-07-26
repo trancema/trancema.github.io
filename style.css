@@ -1,0 +1,44 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=47d2b1f32cc05c976af4a39256e01cba&auto=format&fit=crop&w=1950&q=80);
+    background-size: cover;
+    font-family: "Poiret One", Georgia, 'Times New Roman', Times, serif;
+    font-size: 120%;
+
+}
+
+.button {
+    background-color: blueviolet;
+}
+
+.jumbotron {
+    opacity: 0.90;
+    
+}
+
+.tekst {
+    text-align: center;
+}
+
+.dugme {
+    text-align: center;
+    background-color: rgb(192, 226, 43);
+    color: black;
+    
+  
+}
+
+.dugme:hover {
+    transition: all 500ms;
+    transform: scale(1.1)
+    
+}
+
+
+img {
+    flex-wrap: wrap;
+}
+
+span {
+    font-size: 1.5em;
+    font-weight: bold;
+}
